@@ -16,13 +16,13 @@ void setup() {
 }
 
 void loop() {
-    doTwinkle();
+    doShining();
     doSnake();
 }
 
-void doTwinkle() {
-    Twinkle twinkle(leds, WIDTH, HEIGHT, true, true);
-    twinkle.start();
+void doShining() {
+    Shining shining(leds, WIDTH, HEIGHT, true, true);
+    Shining.start();
 }
 
 void doSnake() {
