@@ -1,6 +1,6 @@
 #include <FastLED.h>
 #include "Snake.cpp"
-#include "Twinkle.cpp"
+#include "Shining.cpp"
 
 #define WIDTH 20
 #define HEIGHT 5
