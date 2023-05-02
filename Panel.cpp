@@ -6,13 +6,12 @@
 #define HEIGHT 5
 #define NUM_LEDS WIDTH * HEIGHT
 
-#define DATA_PIN 3
+#define DATA_PIN 2
 
 CRGB leds[NUM_LEDS];
 
 void setup() {
-  // put your setup code here, to run once:
-
+    // To run once 
     FastLED.addLeds<WS2812B, DATA_PIN, GRB>(leds, NUM_LEDS);
 }
 
@@ -30,3 +29,5 @@ void doSnake() {
     Snake snake(leds, WIDTH, HEIGHT);
     snake.start();
 }
+
+// For now, unfortunately the snake doesn't work
