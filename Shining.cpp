@@ -1,30 +1,30 @@
 #import <Effect.h>
 
-#define MAX_TWINKS 25
+#define MAX_Shines 25
 #define OFFSET 0xB000
 
 
-typedef struct Twink {
+typedef struct Shine {
     short x;
     short y;
-} Twink;
+} Shine;
 
 
-class Twinkle : public Effect {
+class Shining : public Effect {
     
 
 private:
-    short numTwinks;
+    short numShines;
     bool colour;
     bool cycleSaturation;
     
 
 public:
-    Twinkle(CRGB *leds, int width, int height, bool colour, bool cycleSaturation) :
+    Shining(CRGB *leds, int width, int height, bool colour, bool cycleSaturation) :
         Effect(leds, width, height),
         colour(colour),
         cycleSaturation(cycleSaturation),
-        numTwinks(0) {
+        numShines(0) {
     }
     
     
@@ -36,11 +36,11 @@ public:
                 if (leds[i]) {
                     leds[i].fadeToBlackBy(50);
                     if (!leds[i]) {
-                        numTwinks--;
+                        numShines--;
                     }
                 } else {
                     if (random(56) == 0) {
-                        numTwinks++;
+                        numShines++;
                         if (colour) {
                             if (cycleSaturation) {
                                 uint8_t saturation = (sin16(frame + OFFSET) >> 8) + 128;
