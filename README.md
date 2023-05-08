@@ -5,6 +5,6 @@
 
 ## What this is:
 
-As an "entry project" to get into my science club I was supposed to complete a chosen project. The one I have chosen was designig, constructing and programming a LED adressable matrix. The matrix would then be used on various event as a "show off feature" and later after weight-optimization used to signalize some of the rover vitals states. 
+To gain entry into my science club (Robotics Science Club (KNR)), I had to undertake a project of my choice. I opted to design, build, and program a LED addressable matrix that could be showcased at various events. Eventually, after optimizing its weight, the matrix would be used to indicate some of the rover's vital states.
 
-The project was completed, although is yet to be optimised and implemented in more of a practical use...
+I have completed the project, but it still needs further optimization and practical implementation.
