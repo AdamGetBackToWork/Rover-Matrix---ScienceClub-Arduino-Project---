@@ -5,8 +5,8 @@
 
 
 typedef struct Shine {
-    short x;
-    short y;
+    int x;
+    int y;
 } Shine;
 
 
