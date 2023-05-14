@@ -3,7 +3,7 @@
 #include "Shining.cpp"
 
 #define WIDTH 20
-#define HEIGHT 5
+#define HEIGHT 9
 #define NUM_LEDS WIDTH * HEIGHT
 
 #define DATA_PIN 2
