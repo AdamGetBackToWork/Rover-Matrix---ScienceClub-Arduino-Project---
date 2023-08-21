@@ -1,0 +1,11 @@
+C:\Users\adams\Desktop\WEITI\KNR\Matrix\Arduino GUI AS\Arduino GUI AS\bin\Debug\Arduino GUI AS.exe.config
+C:\Users\adams\Desktop\WEITI\KNR\Matrix\Arduino GUI AS\Arduino GUI AS\bin\Debug\Arduino GUI AS.exe
+C:\Users\adams\Desktop\WEITI\KNR\Matrix\Arduino GUI AS\Arduino GUI AS\bin\Debug\Arduino GUI AS.pdb
+C:\Users\adams\Desktop\WEITI\KNR\Matrix\Arduino GUI AS\Arduino GUI AS\obj\Debug\Arduino GUI AS.csproj.AssemblyReference.cache
+C:\Users\adams\Desktop\WEITI\KNR\Matrix\Arduino GUI AS\Arduino GUI AS\obj\Debug\Arduino GUI AS.csproj.SuggestedBindingRedirects.cache
+C:\Users\adams\Desktop\WEITI\KNR\Matrix\Arduino GUI AS\Arduino GUI AS\obj\Debug\Arduino_GUI_AS.Form1.resources
+C:\Users\adams\Desktop\WEITI\KNR\Matrix\Arduino GUI AS\Arduino GUI AS\obj\Debug\Arduino_GUI_AS.Properties.Resources.resources
+C:\Users\adams\Desktop\WEITI\KNR\Matrix\Arduino GUI AS\Arduino GUI AS\obj\Debug\Arduino GUI AS.csproj.GenerateResource.cache
+C:\Users\adams\Desktop\WEITI\KNR\Matrix\Arduino GUI AS\Arduino GUI AS\obj\Debug\Arduino GUI AS.csproj.CoreCompileInputs.cache
+C:\Users\adams\Desktop\WEITI\KNR\Matrix\Arduino GUI AS\Arduino GUI AS\obj\Debug\Arduino GUI AS.exe
+C:\Users\adams\Desktop\WEITI\KNR\Matrix\Arduino GUI AS\Arduino GUI AS\obj\Debug\Arduino GUI AS.pdb
